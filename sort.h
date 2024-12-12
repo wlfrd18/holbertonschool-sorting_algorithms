@@ -3,11 +3,7 @@
 
 #include <stdio.h>
 #include "sort.h"
-
-/**
- * Auth: Kanga Brice and Wilfried Guele
- * file: sort.h
- */
+#include <stddef.h>
 
 /**
  * struct listint_s - Doubly linked list node
